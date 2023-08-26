@@ -1,0 +1,314 @@
+(N) 2023-08-26T18:32:16 - qBittorrent v4.5.4 started
+(N) 2023-08-26T18:32:16 - Using config directory: /config/qBittorrent
+(N) 2023-08-26T18:32:16 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2023-08-26T18:32:16 - Peer ID: "-qB4540-"
+(I) 2023-08-26T18:32:16 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-26T18:32:16 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-26T18:32:16 - Local Peer Discovery support: ON
+(I) 2023-08-26T18:32:16 - Peer Exchange (PeX) support: ON
+(I) 2023-08-26T18:32:16 - Anonymous mode: OFF
+(I) 2023-08-26T18:32:16 - Encryption support: ON
+(I) 2023-08-26T18:32:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2023-08-26T18:32:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2023-08-26T18:32:16 - Successfully listening on IP. IP: "172.20.0.2". Port: "TCP/6881"
+(I) 2023-08-26T18:32:16 - Successfully listening on IP. IP: "172.20.0.2". Port: "UTP/6881"
+(W) 2023-08-26T18:32:16 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2023-08-26T18:32:16 - Using built-in Web UI.
+(W) 2023-08-26T18:32:16 - Couldn't load Web UI translation for selected locale (C).
+(N) 2023-08-26T18:32:16 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-26T18:32:16 - Detected external IP. IP: "104.244.79.76"
+(I) 2023-08-26T18:32:17 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 08:15:41 2023.
+(I) 2023-08-26T18:32:17 - Successfully updated IP geolocation database.
+(N) 2023-08-26T18:32:35 - WebAPI login success. IP: ::ffff:45.78.17.19
+(N) 2023-08-26T18:32:53 - 已成功加载所选区域设置（zh_CN）的 Web UI 翻译。
+(N) 2023-08-26T18:32:53 - Web UI：正在监听 IP：*，端口：8080
+(N) 2023-08-26T18:34:13 - Web UI：正在监听 IP：*，端口：8080
+(N) 2023-08-26T18:34:13 - 尝试侦听下列 IP 地址列表：“0.0.0.0:21756,[::]:21756”
+(I) 2023-08-26T18:34:13 - 成功监听 IP。IP：“127.0.0.1”。端口："TCP/21756"
+(I) 2023-08-26T18:34:13 - 成功监听 IP。IP：“127.0.0.1”。端口："UTP/21756"
+(I) 2023-08-26T18:34:13 - 成功监听 IP。IP：“172.20.0.2”。端口："TCP/21756"
+(I) 2023-08-26T18:34:13 - 成功监听 IP。IP：“172.20.0.2”。端口："UTP/21756"
+(I) 2023-08-26T18:34:17 - 检测到外部 IP。IP：“104.244.79.76”
+(I) 2023-08-26T18:35:17 - 分布式哈希表（DHT）支持：关
+(W) 2023-08-26T18:35:17 - 开/关 Peer 交换（PeX）功能必须重新启动程序
+(I) 2023-08-26T18:35:17 - 本地 Peer 发现支持：关
+(N) 2023-08-26T18:35:17 - Web UI：正在监听 IP：*，端口：8080
+(W) 2023-08-26T18:36:20 - 开/关 Peer 交换（PeX）功能必须重新启动程序
+(N) 2023-08-26T18:36:20 - Web UI：正在监听 IP：*，端口：8080
+(N) 2023-08-26T18:36:58 - 发起了 qBittorrent 终止操作
+(I) 2023-08-26T18:36:58 - UPnP/NAT-PMP 支持：关
+(N) 2023-08-26T18:36:58 - qBittorrent 现在准备好退出了
+(N) 2023-08-26T18:37:11 - qBittorrent v4.5.4 已启动
+(N) 2023-08-26T18:37:11 - 使用配置目录：/config/qBittorrent
+(N) 2023-08-26T18:37:11 - 尝试侦听下列 IP 地址列表：“0.0.0.0:21756,[::]:21756”
+(I) 2023-08-26T18:37:11 - Peer ID：“-qB4540-”
+(I) 2023-08-26T18:37:11 - HTTP User-Agent：“qBittorrent/4.5.4”
+(I) 2023-08-26T18:37:11 - 分布式哈希表（DHT）支持：关
+(I) 2023-08-26T18:37:11 - 本地 Peer 发现支持：关
+(I) 2023-08-26T18:37:11 - Peer 交换（PeX）支持：关
+(I) 2023-08-26T18:37:11 - 匿名模式：关
+(I) 2023-08-26T18:37:11 - 加密支持：开
+(I) 2023-08-26T18:37:11 - 成功监听 IP。IP：“127.0.0.1”。端口："TCP/21756"
+(I) 2023-08-26T18:37:11 - 成功监听 IP。IP：“127.0.0.1”。端口："UTP/21756"
+(I) 2023-08-26T18:37:11 - 成功监听 IP。IP：“172.21.0.2”。端口："TCP/21756"
+(I) 2023-08-26T18:37:11 - 成功监听 IP。IP：“172.21.0.2”。端口："UTP/21756"
+(I) 2023-08-26T18:37:11 - IP 地理数据库已加载。类型：DBIP-Country-Lite。构建时间：Tue Aug 1 08:15:41 2023。
+(N) 2023-08-26T18:37:11 - 使用内置 Web UI。
+(N) 2023-08-26T18:37:11 - 已成功加载所选区域设置（zh_CN）的 Web UI 翻译。
+(N) 2023-08-26T18:37:11 - Web UI：正在监听 IP：*，端口：8080
+(N) 2023-08-26T18:37:16 - WebAPI 登录成功。IP：::ffff:45.78.17.19
+(N) 2023-08-26T18:41:11 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T18:41:29 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T18:42:12 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T18:46:24 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T18:46:24 - 添加了新 Torrent。Torrent：“The.Twin.Flower.Legend.S01.1080p.WEB-DL.AAC.x264.AppleTor”
+(I) 2023-08-26T18:46:26 - 检测到外部 IP。IP：“104.244.79.76”
+(N) 2023-08-26T18:50:34 - 移除了 Torrent 并删除了其内容。Torrent：“The.Twin.Flower.Legend.S01.1080p.WEB-DL.AAC.x264.AppleTor”
+(N) 2023-08-26T18:55:21 - 正在下载 Torrent，请稍等...来源：“https://www.ptlsp.com/download.php?downhash=890530|n7KN”
+(N) 2023-08-26T18:55:21 - 添加了新 Torrent。Torrent：“不能错过的只有你.Nobody.But.You.2023.1080p.WEB-DL.H264.AAC-PTerWEB”
+(W) 2023-08-26T18:56:49 - Http 请求错误，关闭套接字。IP：::ffff:65.49.1.34
+(N) 2023-08-26T19:00:39 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:00:40 - 添加了新 Torrent。Torrent：“西线无战事.All.Quiet.on.the.Western.Front.Repack.2022.2160p.x264.8bit.AAC-PTLSP”
+(N) 2023-08-26T19:00:48 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:00:48 - 添加了新 Torrent。Torrent：“Boy Did I Get a Wrong Number 1966 1080p BluRay Remux AVC AC3-PTLSP”
+(N) 2023-08-26T19:00:54 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:00:54 - 添加了新 Torrent。Torrent：“Speak Now (Taylor's Version)”
+(N) 2023-08-26T19:01:01 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:01:01 - 添加了新 Torrent。Torrent：“evermore (deluxe version)”
+(N) 2023-08-26T19:01:07 - 移除了 Torrent 并删除了其内容。Torrent：“不能错过的只有你.Nobody.But.You.2023.1080p.WEB-DL.H264.AAC-PTerWEB”
+(N) 2023-08-26T19:01:08 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:01:08 - 添加了新 Torrent。Torrent：“folklore (deluxe version)”
+(N) 2023-08-26T19:01:14 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:01:14 - 添加了新 Torrent。Torrent：“Midnights (3am Edition)”
+(N) 2023-08-26T19:01:21 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:01:21 - 添加了新 Torrent。Torrent：“1989 (Deluxe)”
+(N) 2023-08-26T19:01:27 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:01:27 - 添加了新 Torrent。Torrent：“LONG TIME KNOW SEE”
+(N) 2023-08-26T19:01:35 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:01:36 - 添加了新 Torrent。Torrent：“Boy Did I Get a Wrong Number 1966 1080p BluRay AVC AC3-PTLSP”
+(N) 2023-08-26T19:01:42 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:01:42 - 添加了新 Torrent。Torrent：“是一场烟火”
+(N) 2023-08-26T19:01:49 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:01:49 - 添加了新 Torrent。Torrent：“REDH”
+(N) 2023-08-26T19:01:55 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:01:55 - 添加了新 Torrent。Torrent：“A Chilling Cosplay 2013 HDTVRip 1080p 50fps H265 AAC-PTLSP.mkv”
+(N) 2023-08-26T19:01:57 - Torrent 下载完成。Torrent：“LONG TIME KNOW SEE”
+(N) 2023-08-26T19:02:02 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:02:02 - 添加了新 Torrent。Torrent：“Marvel Studios Guardians Of The Galaxy Vol 3 2023 2160P 8bit H265 AAC-PTLSP”
+(N) 2023-08-26T19:02:10 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:02:10 - 添加了新 Torrent。Torrent：“Avatar The Way Of Water 2022 2160P 10bit H265 AAC-PTLSP”
+(N) 2023-08-26T19:02:17 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:02:17 - 添加了新 Torrent。Torrent：“PT下载软件”
+(N) 2023-08-26T19:02:24 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:02:24 - 添加了新 Torrent。Torrent：“图片转存图床相关网址.txt”
+(N) 2023-08-26T19:02:26 - Torrent 下载完成。Torrent：“图片转存图床相关网址.txt”
+(N) 2023-08-26T19:02:31 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:02:31 - 添加了新 Torrent。Torrent：“UFS_Explorer”
+(N) 2023-08-26T19:02:37 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:02:37 - 添加了新 Torrent。Torrent：“2006.01.20 - 霍元甲”
+(N) 2023-08-26T19:02:43 - Torrent 下载完成。Torrent：“UFS_Explorer”
+(N) 2023-08-26T19:02:44 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:02:44 - 添加了新 Torrent。Torrent：“2005.11.01 - 十一月的萧邦”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“西线无战事.All.Quiet.on.the.Western.Front.Repack.2022.2160p.x264.8bit.AAC-PTLSP”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“REDH”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“Avatar The Way Of Water 2022 2160P 10bit H265 AAC-PTLSP”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“1989 (Deluxe)”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“UFS_Explorer”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“Boy Did I Get a Wrong Number 1966 1080p BluRay Remux AVC AC3-PTLSP”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“LONG TIME KNOW SEE”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“图片转存图床相关网址.txt”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“Marvel Studios Guardians Of The Galaxy Vol 3 2023 2160P 8bit H265 AAC-PTLSP”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“Boy Did I Get a Wrong Number 1966 1080p BluRay AVC AC3-PTLSP”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“Speak Now (Taylor's Version)”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“2006.01.20 - 霍元甲”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“evermore (deluxe version)”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“是一场烟火”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“Midnights (3am Edition)”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“A Chilling Cosplay 2013 HDTVRip 1080p 50fps H265 AAC-PTLSP.mkv”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“PT下载软件”
+(N) 2023-08-26T19:02:47 - 移除了 Torrent 并删除了其内容。Torrent：“folklore (deluxe version)”
+(N) 2023-08-26T19:02:50 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:02:50 - 添加了新 Torrent。Torrent：“狼群.Wolf.Pack.2022.2160p.WEB-DL.H265.60FPS.AAC-ADWeb”
+(N) 2023-08-26T19:02:57 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:02:57 - 添加了新 Torrent。Torrent：“2005.08.31 - Initial J - 头文字D”
+(N) 2023-08-26T19:03:03 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:03 - 添加了新 Torrent。Torrent：“2004.08.03 - 七里香”
+(N) 2023-08-26T19:03:10 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:10 - 添加了新 Torrent。Torrent：“2003.11.01 - 寻找周杰伦”
+(N) 2023-08-26T19:03:16 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:16 - 添加了新 Torrent。Torrent：“2003.06.05 - 叶惠美”
+(N) 2023-08-26T19:03:23 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:23 - 添加了新 Torrent。Torrent：“2002.07.19 - 八度空间”
+(N) 2023-08-26T19:03:27 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:29 - 添加了新 Torrent。Torrent：“漫长的季节.The.Long.Season.2023.S01.2160p.WEB-DL.HEVC.10bit.DV.DDP2.0-PTLSP”
+(N) 2023-08-26T19:03:30 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:30 - 添加了新 Torrent。Torrent：“五更百鬼 21套 合集”
+(N) 2023-08-26T19:03:36 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:36 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:36 - 添加了新 Torrent。Torrent：“Polaris·北极星下落不明”
+(N) 2023-08-26T19:03:36 - 添加了新 Torrent。Torrent：“Red Velvet”
+(N) 2023-08-26T19:03:43 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:43 - 添加了新 Torrent。Torrent：“国王降落伞”
+(N) 2023-08-26T19:03:43 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:44 - 添加了新 Torrent。Torrent：“Elemental.2023.1080p.WEB-DL.DDP5.1.Atmos.H.265-LSPWEB.mkv”
+(N) 2023-08-26T19:03:49 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:49 - 添加了新 Torrent。Torrent：“Minions.The.Rise.of.Gru.2022.Repack.UHD.BluRay.2160p.3Audio.AAC.h265.10bit.HDR-PTLSP”
+(N) 2023-08-26T19:03:50 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:51 - 添加了新 Torrent。Torrent：“An Ancient Love Song S01 2023 1080p LINETV WEB-DL H265 AAC-PTLSP”
+(N) 2023-08-26T19:03:56 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:56 - 添加了新 Torrent。Torrent：“The Heist of the Century 2020 1080p FRA Blu-ray H265 AAC-PTLSP”
+(N) 2023-08-26T19:03:58 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:03:58 - 添加了新 Torrent。Torrent：“I.Need.Romance.S01.1080p.NF.WEB-DL.DDP2.0.H265-PTLSP”
+(N) 2023-08-26T19:04:05 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:04:05 - 添加了新 Torrent。Torrent：“Young.Blood.2023.S02E01-E16.1080p.WEB-DL.H264.AAC-PTLSP”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“狼群.Wolf.Pack.2022.2160p.WEB-DL.H265.60FPS.AAC-ADWeb”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“漫长的季节.The.Long.Season.2023.S01.2160p.WEB-DL.HEVC.10bit.DV.DDP2.0-PTLSP”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“2002.07.19 - 八度空间”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“2004.08.03 - 七里香”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“2003.11.01 - 寻找周杰伦”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“国王降落伞”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“2005.08.31 - Initial J - 头文字D”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“2003.06.05 - 叶惠美”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“I.Need.Romance.S01.1080p.NF.WEB-DL.DDP2.0.H265-PTLSP”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“五更百鬼 21套 合集”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“Young.Blood.2023.S02E01-E16.1080p.WEB-DL.H264.AAC-PTLSP”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“Minions.The.Rise.of.Gru.2022.Repack.UHD.BluRay.2160p.3Audio.AAC.h265.10bit.HDR-PTLSP”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“Red Velvet”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“2005.11.01 - 十一月的萧邦”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“Polaris·北极星下落不明”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“An Ancient Love Song S01 2023 1080p LINETV WEB-DL H265 AAC-PTLSP”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“The Heist of the Century 2020 1080p FRA Blu-ray H265 AAC-PTLSP”
+(N) 2023-08-26T19:05:46 - 移除了 Torrent 并删除了其内容。Torrent：“Elemental.2023.1080p.WEB-DL.DDP5.1.Atmos.H.265-LSPWEB.mkv”
+(N) 2023-08-26T19:15:15 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:15:15 - 添加了新 Torrent。Torrent：“冲遊泰國.S04.1080p.myTV-SUPER.WEB-DL.H265.AAC-ManGor@MTeam”
+(N) 2023-08-26T19:15:25 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:15:25 - 添加了新 Torrent。Torrent：“冲遊泰國.S03.1080p.myTV-SUPER.WEB-DL.H265.AAC-ManGor@MTeam”
+(N) 2023-08-26T19:15:33 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:15:34 - 添加了新 Torrent。Torrent：“冲遊泰國.S02.1080p.myTV-SUPER.WEB-DL.H265.AAC-ManGor@MTeam”
+(N) 2023-08-26T19:15:44 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:15:44 - 添加了新 Torrent。Torrent：“No Hard Feelings 2023 BluRay 720p DTS x264-MTeam”
+(N) 2023-08-26T19:15:52 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:15:52 - 添加了新 Torrent。Torrent：“No Hard Feelings 2023 BluRay 1080p DTS-HD MA 5.1 x264-MTeam”
+(N) 2023-08-26T19:16:01 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:16:03 - 添加了新 Torrent。Torrent：“The.Flash.2023.BluRay.1080p.AVC.Atmos.TrueHD7.1-loongkee@MTeam”
+(N) 2023-08-26T19:16:12 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:16:12 - 添加了新 Torrent。Torrent：“The Flash 2023 BluRay 720p DD5.1 x264-MTeam”
+(N) 2023-08-26T19:16:21 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:16:21 - 添加了新 Torrent。Torrent：“The Flash 2023 BluRay 1080p TrueHD 7.1 x264-MTeam”
+(N) 2023-08-26T19:16:30 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:16:31 - 添加了新 Torrent。Torrent：“No.Hard.Feelings.2023.BluRay.1080p.AVC.DTS-HD.MA5.1-MTeam”
+(N) 2023-08-26T19:16:41 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:16:50 - 添加了新 Torrent。Torrent：“The.Flash.2023.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam”
+(N) 2023-08-26T19:17:00 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:17:01 - 添加了新 Torrent。Torrent：“The.Flash.2023.BluRay.1080p.AVC.Atmos.TrueHD7.1-MTeam”
+(N) 2023-08-26T19:17:09 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:17:10 - 添加了新 Torrent。Torrent：“冲遊泰國.S01.1080p.myTV-SUPER.WEB-DL.H265.AAC-ManGor@MTeam”
+(N) 2023-08-26T19:17:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:17:21 - 添加了新 Torrent。Torrent：“Aaliyah Love Collection XXX Pack”
+(N) 2023-08-26T19:18:25 - 移除了 Torrent 并删除了其内容。Torrent：“冲遊泰國.S02.1080p.myTV-SUPER.WEB-DL.H265.AAC-ManGor@MTeam”
+(N) 2023-08-26T19:18:25 - 移除了 Torrent 并删除了其内容。Torrent：“The Flash 2023 BluRay 720p DD5.1 x264-MTeam”
+(N) 2023-08-26T19:18:25 - 移除了 Torrent 并删除了其内容。Torrent：“冲遊泰國.S01.1080p.myTV-SUPER.WEB-DL.H265.AAC-ManGor@MTeam”
+(N) 2023-08-26T19:18:25 - 移除了 Torrent 并删除了其内容。Torrent：“No Hard Feelings 2023 BluRay 720p DTS x264-MTeam”
+(N) 2023-08-26T19:18:25 - 移除了 Torrent 并删除了其内容。Torrent：“The Flash 2023 BluRay 1080p TrueHD 7.1 x264-MTeam”
+(N) 2023-08-26T19:18:25 - 移除了 Torrent 并删除了其内容。Torrent：“The.Flash.2023.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam”
+(N) 2023-08-26T19:18:25 - 移除了 Torrent 并删除了其内容。Torrent：“No.Hard.Feelings.2023.BluRay.1080p.AVC.DTS-HD.MA5.1-MTeam”
+(N) 2023-08-26T19:18:25 - 移除了 Torrent 并删除了其内容。Torrent：“The.Flash.2023.BluRay.1080p.AVC.Atmos.TrueHD7.1-MTeam”
+(N) 2023-08-26T19:18:25 - 移除了 Torrent 并删除了其内容。Torrent：“冲遊泰國.S04.1080p.myTV-SUPER.WEB-DL.H265.AAC-ManGor@MTeam”
+(N) 2023-08-26T19:18:25 - 移除了 Torrent 并删除了其内容。Torrent：“冲遊泰國.S03.1080p.myTV-SUPER.WEB-DL.H265.AAC-ManGor@MTeam”
+(N) 2023-08-26T19:18:26 - 移除了 Torrent 并删除了其内容。Torrent：“The.Flash.2023.BluRay.1080p.AVC.Atmos.TrueHD7.1-loongkee@MTeam”
+(N) 2023-08-26T19:18:26 - 移除了 Torrent 并删除了其内容。Torrent：“No Hard Feelings 2023 BluRay 1080p DTS-HD MA 5.1 x264-MTeam”
+(N) 2023-08-26T19:18:26 - 移除了 Torrent 并删除了其内容。Torrent：“Aaliyah Love Collection XXX Pack”
+(W) 2023-08-26T19:20:59 - Http 请求错误，关闭套接字。IP：::ffff:45.128.232.140
+(W) 2023-08-26T19:21:49 - Http 请求错误，关闭套接字。IP：::ffff:45.128.232.125
+(N) 2023-08-26T19:23:49 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:23:49 - 添加了新 Torrent。Torrent：“周杰伦 - 合集  2000-2022 - FLAC 16bit 44.1khz 拆解”
+(N) 2023-08-26T19:23:57 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:24:04 - 添加了新 Torrent。Torrent：“极限竞速：地平线5v1.517.253.0”
+(N) 2023-08-26T19:26:01 - 移除了 Torrent 并删除了其内容。Torrent：“极限竞速：地平线5v1.517.253.0”
+(N) 2023-08-26T19:26:08 - 移除了 Torrent 并删除了其内容。Torrent：“周杰伦 - 合集  2000-2022 - FLAC 16bit 44.1khz 拆解”
+(N) 2023-08-26T19:27:40 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:27:41 - 添加了新 Torrent。Torrent：“Adobe_Premiere_Pro_CC_Mac_2022.zip”
+(N) 2023-08-26T19:27:47 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:27:47 - 添加了新 Torrent。Torrent：“Adobe_Photoshop_CC_Mac_2022.zip”
+(N) 2023-08-26T19:27:53 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:27:53 - 添加了新 Torrent。Torrent：“Adobe_Lightroom_Classic_CC_Mac_2022.zip”
+(N) 2023-08-26T19:28:00 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:28:00 - 添加了新 Torrent。Torrent：“Adobe_Premiere_Pro_2022.zip”
+(N) 2023-08-26T19:28:06 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:28:06 - 添加了新 Torrent。Torrent：“Adobe_Photoshop_2022.zip”
+(N) 2023-08-26T19:28:13 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:28:13 - 添加了新 Torrent。Torrent：“Adobe_Lightroom_Classic_2022.zip”
+(N) 2023-08-26T19:28:19 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:28:19 - 添加了新 Torrent。Torrent：“Adobe_After_Effects_2022.zip”
+(N) 2023-08-26T19:31:45 - 正在下载 Torrent，请稍等...来源：“https://www.pttime.org/download.php?id=54635&passkey=e7e59e37b86d9971f0a352ff1b3ee984&uid=78703”
+(N) 2023-08-26T19:31:46 - 添加了新 Torrent。Torrent：“长安十二时辰.The.Longest.Day.in.Chang&apos;an.2019.S01.WEB-DL.2160p.HEVC.AAC-ZmWeb”
+(N) 2023-08-26T19:33:07 - 移除了 Torrent 并删除了其内容。Torrent：“长安十二时辰.The.Longest.Day.in.Chang&apos;an.2019.S01.WEB-DL.2160p.HEVC.AAC-ZmWeb”
+(N) 2023-08-26T19:33:23 - 正在下载 Torrent，请稍等...来源：“https://www.pttime.org/download.php?id=54594&passkey=e7e59e37b86d9971f0a352ff1b3ee984&uid=78703”
+(N) 2023-08-26T19:33:25 - 添加了新 Torrent。Torrent：“[BDMV][BATCH][犬夜叉][BDBOX.1-3][Dynit 2021][ITA]”
+(N) 2023-08-26T19:34:09 - Torrent 下载完成。Torrent：“Adobe_Lightroom_Classic_CC_Mac_2022.zip”
+(N) 2023-08-26T19:34:36 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:35:56 - Web UI：正在监听 IP：*，端口：8080
+(N) 2023-08-26T19:40:03 - Torrent 下载完成。Torrent：“Adobe_After_Effects_2022.zip”
+(N) 2023-08-26T19:42:09 - Torrent 下载完成。Torrent：“Adobe_Photoshop_CC_Mac_2022.zip”
+(N) 2023-08-26T19:42:47 - Torrent 下载完成。Torrent：“Adobe_Premiere_Pro_2022.zip”
+(N) 2023-08-26T19:44:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:44:28 - Torrent 下载完成。Torrent：“Adobe_Lightroom_Classic_2022.zip”
+(N) 2023-08-26T19:48:01 - Torrent 下载完成。Torrent：“Adobe_Photoshop_2022.zip”
+(N) 2023-08-26T19:49:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:54:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T19:55:19 - Torrent 下载完成。Torrent：“Adobe_Premiere_Pro_CC_Mac_2022.zip”
+(N) 2023-08-26T19:59:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(W) 2023-08-26T20:00:48 - Http 请求错误，关闭套接字。IP：::ffff:146.19.191.138
+(N) 2023-08-26T20:04:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(W) 2023-08-26T20:08:14 - Http 请求错误，关闭套接字。IP：::ffff:146.19.191.138
+(N) 2023-08-26T20:09:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T20:14:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T20:19:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T20:24:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T20:29:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T20:34:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T20:39:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T20:44:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T20:49:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(W) 2023-08-26T20:53:03 - Http 请求错误，关闭套接字。IP：::ffff:68.69.184.62
+(N) 2023-08-26T20:54:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T20:59:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T21:04:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T21:09:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T21:14:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T21:19:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T21:24:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T21:29:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T21:34:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T21:39:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(N) 2023-08-26T21:44:00 - WebAPI 登录成功。IP：::ffff:45.78.17.19
+(N) 2023-08-26T21:44:20 - WebAPI 登录成功。IP：::ffff:104.244.79.76
+(W) 2023-08-26T21:48:00 - Http 请求错误，关闭套接字。IP：::ffff:146.19.191.138
+(N) 2023-08-26T21:49:57 - 移除了 Torrent 并删除了其内容。Torrent：“[BDMV][BATCH][犬夜叉][BDBOX.1-3][Dynit 2021][ITA]”
+(W) 2023-08-26T21:51:10 - Http 请求错误，关闭套接字。IP：::ffff:176.97.210.105
+(N) 2023-08-26T21:51:19 - 正在下载 Torrent，请稍等...来源：“https://www.pttime.org/download.php?id=54642&passkey=e7e59e37b86d9971f0a352ff1b3ee984&uid=78703”
+(N) 2023-08-26T21:51:22 - 添加了新 Torrent。Torrent：“[BDMV] Gekijouban Toaru Majutsu no Index Endymion no Kiseki”
+(N) 2023-08-26T21:55:38 - 正在下载 Torrent，请稍等...来源：“https://www.pttime.org/download.php?id=54566&passkey=e7e59e37b86d9971f0a352ff1b3ee984&uid=78703”
+(N) 2023-08-26T21:55:40 - 添加了新 Torrent。Torrent：“GAME OF THRONES COMPLETE BLU-RAY DIY PACKAGE”
+(N) 2023-08-26T21:55:52 - Torrent 下载完成。Torrent：“GAME OF THRONES COMPLETE BLU-RAY DIY PACKAGE”
+(N) 2023-08-26T21:56:25 - Torrent 已恢复。Torrent：“GAME OF THRONES COMPLETE BLU-RAY DIY PACKAGE”
+(N) 2023-08-26T21:59:47 - 移除了 Torrent 并删除了其内容。Torrent：“[BDMV] Gekijouban Toaru Majutsu no Index Endymion no Kiseki”
+(N) 2023-08-26T22:00:28 - Torrent 下载完成。Torrent：“GAME OF THRONES COMPLETE BLU-RAY DIY PACKAGE”
+(N) 2023-08-26T22:00:37 - Torrent 下载完成。Torrent：“GAME OF THRONES COMPLETE BLU-RAY DIY PACKAGE”
+(W) 2023-08-26T22:12:47 - Http 请求错误，关闭套接字。IP：::ffff:207.180.223.28
+(W) 2023-08-26T22:34:32 - Http 请求错误，关闭套接字。IP：::ffff:84.54.51.27
+(W) 2023-08-26T22:58:51 - Http 请求错误，关闭套接字。IP：::ffff:176.97.210.105
+(W) 2023-08-26T23:03:34 - Http 请求错误，关闭套接字。IP：::ffff:45.128.232.125
+(W) 2023-08-26T23:07:49 - Http 请求错误，关闭套接字。IP：::ffff:45.128.232.152
+(W) 2023-08-26T23:10:10 - Http 请求错误，关闭套接字。IP：::ffff:45.128.232.140
+(W) 2023-08-26T23:20:24 - Http 请求错误，关闭套接字。IP：::ffff:68.69.184.62
+(W) 2023-08-26T23:37:18 - Http 请求错误，关闭套接字。IP：::ffff:45.128.232.183
+(W) 2023-08-26T23:55:37 - Http 请求错误，关闭套接字。IP：::ffff:176.97.210.105
+(N) 2023-08-26T23:58:02 - WebAPI 登录成功。IP：::ffff:45.78.17.19
+(W) 2023-08-26T23:58:24 - Http 请求错误，关闭套接字。IP：::ffff:199.195.254.170
+(W) 2023-08-27T00:03:55 - Http 请求错误，关闭套接字。IP：::ffff:185.216.71.6
+(I) 2023-08-27T00:08:50 - UPnP/NAT-PMP 支持：开
+(N) 2023-08-27T00:08:50 - Web UI：正在监听 IP：*，端口：8080
+(W) 2023-08-27T00:11:26 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[172.21.0.2]: no router found”
+(W) 2023-08-27T00:11:26 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[172.21.0.2]: no router found”
+(N) 2023-08-27T00:12:48 - Web UI：正在监听 IP：*，端口：8080
