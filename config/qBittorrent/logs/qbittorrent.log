@@ -312,3 +312,54 @@
 (W) 2023-08-27T00:11:26 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[172.21.0.2]: no router found”
 (W) 2023-08-27T00:11:26 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[172.21.0.2]: no router found”
 (N) 2023-08-27T00:12:48 - Web UI：正在监听 IP：*，端口：8080
+(N) 2023-09-03T21:56:27 - qBittorrent v4.5.5 已启动
+(N) 2023-09-03T21:56:27 - 使用配置目录：/config/qBittorrent
+(N) 2023-09-03T21:56:27 - 尝试侦听下列 IP 地址列表：“0.0.0.0:21756,[::]:21756”
+(I) 2023-09-03T21:56:27 - Peer ID：“-qB4550-”
+(I) 2023-09-03T21:56:27 - HTTP User-Agent：“qBittorrent/4.5.5”
+(I) 2023-09-03T21:56:27 - 分布式哈希表（DHT）支持：关
+(I) 2023-09-03T21:56:27 - 本地 Peer 发现支持：关
+(I) 2023-09-03T21:56:27 - Peer 交换（PeX）支持：关
+(I) 2023-09-03T21:56:27 - 匿名模式：关
+(I) 2023-09-03T21:56:27 - 加密支持：开
+(I) 2023-09-03T21:56:27 - UPnP/NAT-PMP 支持：开
+(I) 2023-09-03T21:56:27 - 成功监听 IP。IP：“127.0.0.1”。端口："TCP/21756"
+(I) 2023-09-03T21:56:27 - 成功监听 IP。IP：“127.0.0.1”。端口："UTP/21756"
+(I) 2023-09-03T21:56:27 - 成功监听 IP。IP：“172.18.0.2”。端口："TCP/21756"
+(I) 2023-09-03T21:56:27 - 成功监听 IP。IP：“172.18.0.2”。端口："UTP/21756"
+(N) 2023-09-03T21:56:27 - 已还原 Torrent。Torrent：“Adobe_Photoshop_CC_Mac_2022.zip”
+(W) 2023-09-03T21:56:27 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“Adobe_Photoshop_CC_Mac_2022.zip”。原因：“Adobe_Photoshop_CC_Mac_2022.zip fast resume rejected. file_stat(/storage_512/PTLSP/Adobe_Photoshop_CC_Mac_2022.zip): mismatching file size”
+(N) 2023-09-03T21:56:27 - 已还原 Torrent。Torrent：“Adobe_Premiere_Pro_2022.zip”
+(W) 2023-09-03T21:56:27 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“Adobe_Premiere_Pro_2022.zip”。原因：“Adobe_Premiere_Pro_2022.zip fast resume rejected. file_stat(/storage_512/PTLSP/Adobe_Premiere_Pro_2022.zip): mismatching file size”
+(N) 2023-09-03T21:56:27 - 已还原 Torrent。Torrent：“Adobe_Photoshop_2022.zip”
+(W) 2023-09-03T21:56:27 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“Adobe_Photoshop_2022.zip”。原因：“Adobe_Photoshop_2022.zip fast resume rejected. file_stat(/storage_512/PTLSP/Adobe_Photoshop_2022.zip): mismatching file size”
+(N) 2023-09-03T21:56:27 - 已还原 Torrent。Torrent：“Adobe_After_Effects_2022.zip”
+(W) 2023-09-03T21:56:27 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“Adobe_After_Effects_2022.zip”。原因：“Adobe_After_Effects_2022.zip fast resume rejected. file_stat(/storage_512/PTLSP/Adobe_After_Effects_2022.zip): mismatching file size”
+(N) 2023-09-03T21:56:27 - 已还原 Torrent。Torrent：“Adobe_Premiere_Pro_CC_Mac_2022.zip”
+(W) 2023-09-03T21:56:27 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“Adobe_Premiere_Pro_CC_Mac_2022.zip”。原因：“Adobe_Premiere_Pro_CC_Mac_2022.zip fast resume rejected. file_stat(/storage_512/PTLSP/Adobe_Premiere_Pro_CC_Mac_2022.zip): mismatching file size”
+(N) 2023-09-03T21:56:27 - 已还原 Torrent。Torrent：“GAME OF THRONES COMPLETE BLU-RAY DIY PACKAGE”
+(N) 2023-09-03T21:56:27 - 已还原 Torrent。Torrent：“Adobe_Lightroom_Classic_2022.zip”
+(N) 2023-09-03T21:56:27 - 已还原 Torrent。Torrent：“Adobe_Lightroom_Classic_CC_Mac_2022.zip”
+(I) 2023-09-03T21:56:27 - IP 地理数据库已加载。类型：DBIP-Country-Lite。构建时间：Tue Aug 1 08:15:41 2023。
+(N) 2023-09-03T21:56:27 - 使用内置 Web UI。
+(N) 2023-09-03T21:56:27 - 已成功加载所选区域设置（zh_CN）的 Web UI 翻译。
+(N) 2023-09-03T21:56:27 - Web UI：正在监听 IP：*，端口：8080
+(W) 2023-09-03T21:56:27 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“Adobe_Lightroom_Classic_CC_Mac_2022.zip”。原因：“Adobe_Lightroom_Classic_CC_Mac_2022.zip fast resume rejected. file_stat(/storage_512/PTLSP/Adobe_Lightroom_Classic_CC_Mac_2022.zip): mismatching file size”
+(W) 2023-09-03T21:56:27 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“Adobe_Lightroom_Classic_2022.zip”。原因：“Adobe_Lightroom_Classic_2022.zip fast resume rejected. file_stat(/storage_512/PTLSP/Adobe_Lightroom_Classic_2022.zip): mismatching file size”
+(W) 2023-09-03T21:56:27 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“GAME OF THRONES COMPLETE BLU-RAY DIY PACKAGE”。原因：“GAME OF THRONES COMPLETE BLU-RAY DIY PACKAGE fast resume rejected. file_stat(/storage_512/PTT/GAME OF THRONES COMPLETE BLU-RAY DIY PACKAGE/GOT_S7_BONUS.ISO): mismatching file size”
+(I) 2023-09-03T21:56:28 - IP 地理数据库已加载。类型：DBIP-Country-Lite。构建时间：Fri Sep 1 08:13:34 2023。
+(I) 2023-09-03T21:56:28 - 成功更新 IP 地理数据库。
+(N) 2023-09-03T21:56:41 - WebAPI 登录成功。IP：::ffff:45.78.17.19
+(N) 2023-09-03T21:57:02 - 移除了 Torrent 并删除了其内容。Torrent：“Adobe_Photoshop_CC_Mac_2022.zip”
+(N) 2023-09-03T21:57:02 - 移除了 Torrent 并删除了其内容。Torrent：“Adobe_Premiere_Pro_2022.zip”
+(N) 2023-09-03T21:57:02 - 移除了 Torrent 并删除了其内容。Torrent：“Adobe_Photoshop_2022.zip”
+(N) 2023-09-03T21:57:02 - 移除了 Torrent 并删除了其内容。Torrent：“Adobe_After_Effects_2022.zip”
+(N) 2023-09-03T21:57:02 - 移除了 Torrent 并删除了其内容。Torrent：“Adobe_Lightroom_Classic_2022.zip”
+(N) 2023-09-03T21:57:02 - 移除了 Torrent 并删除了其内容。Torrent：“Adobe_Lightroom_Classic_CC_Mac_2022.zip”
+(N) 2023-09-03T21:57:02 - 移除了 Torrent 并删除了其内容。Torrent：“Adobe_Premiere_Pro_CC_Mac_2022.zip”
+(N) 2023-09-03T21:57:02 - 移除了 Torrent 并删除了其内容。Torrent：“GAME OF THRONES COMPLETE BLU-RAY DIY PACKAGE”
+(N) 2023-09-03T21:57:07 - Web UI：正在监听 IP：*，端口：8080
+(N) 2023-09-03T21:57:14 - 正在下载 Torrent，请稍等...来源：“https://kp.m-team.cc/download.php?id=708279&passkey=97b1373bce7c2edbec1c44869c1c7baa&https=1”
+(N) 2023-09-03T21:57:16 - 添加了新 Torrent。Torrent：“Aporia 2023 BluRay 1080p DTS-HD MA 5.1 x264-MTeam”
+(I) 2023-09-03T21:57:19 - 检测到外部 IP。IP：“170.64.200.243”
+(N) 2023-09-03T21:57:32 - 移除了 Torrent 并删除了其内容。Torrent：“Aporia 2023 BluRay 1080p DTS-HD MA 5.1 x264-MTeam”

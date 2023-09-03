@@ -9,7 +9,7 @@ services:
       - UMASK_SET=022
     volumes:
       - ./config:/config
-      - /storage_512:/storage_512
+      - ./downloads:/downloads
     ports:
       - 21756:21756
       - 21756:21756/udp
